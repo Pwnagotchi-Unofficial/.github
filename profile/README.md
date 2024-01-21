@@ -1,6 +1,6 @@
 # Pwnagotchi Unofficial
 The unofficial Pwnagotchi organization.
 
-[Website](pwnagotchi.org)
+[Website](https://pwnagotchi.org)
 
-[Another one](pwnagotchi-unofficial.github.io)
+[Another one](https://pwnagotchi-unofficial.github.io)
